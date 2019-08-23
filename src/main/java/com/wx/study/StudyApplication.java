@@ -8,7 +8,9 @@ public class StudyApplication {
 
     public static void main(String[] args) {
         int m=1;
+        int n=1;
         System.out.println(m+1);
+        System.out.println(n+1);
         SpringApplication.run(StudyApplication.class, args);
     }
 
